@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs", // 👈 IMPORTANT
+    "target": "ES2020",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
